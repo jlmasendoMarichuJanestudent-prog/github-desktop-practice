@@ -6,3 +6,8 @@ About Me:
 I am a Computer studies student learning 
 GitHub and software
 development.
+
+Hobbies:
+- Playing online games
+- learning Software things 
+- exploring computer technology
