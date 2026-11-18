@@ -1,8 +1,0 @@
-Name: Justiniel Masendo 
-Course: BSIT
-Section: 2C
-
-About Me:
-I am a Computer studies student learning 
-GitHub and software
-development.
