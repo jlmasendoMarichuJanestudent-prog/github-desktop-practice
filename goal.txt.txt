@@ -1,0 +1,6 @@
+My learning Goals
+
+1. Learn how to use gitHub Desktop.
+2. Understanding commits and branches.
+3. Learn how to push change tp GitHub.
+4. Create and publish my own website
